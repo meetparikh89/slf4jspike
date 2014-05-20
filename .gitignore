@@ -1,0 +1,22 @@
+#netbeans
+**.nb-gradle/
+
+#eclipse
+**.project
+**.classpath
+**.metadata
+**.settings/
+
+#idea
+**.idea/
+**.iml
+**.ipr
+**.iws
+
+#idea gradle wrapper
+**gradlew
+**gradlew.bat
+**gradle/
+
+**build/
+**.gradle/
