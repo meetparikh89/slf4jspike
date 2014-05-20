@@ -23,6 +23,7 @@ public class MyClass {
         logger.info("Hello from Bar. - {}.",name);
         logger.error("Fake error ;)");
         logger.info("Logging is so easy !!!!");
+        logger.info("I love my mother !!!!");
 
         logger.debug("In bar my name is {}.", name);
 
